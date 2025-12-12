@@ -29,7 +29,7 @@ nav {
     align-items: center;
 }
 
-.my_life{
+#my_life{
     text-align: center;
     width: 100px;
     height: 20px;
@@ -42,7 +42,7 @@ nav {
     align-items: center;
 }
 
-.career{
+#career{
     text-align: center;
     width: 100px;
     height: 20px;
